@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$7deiVarDyVo4uR2RLafrKuk2.r2GJtve0qPqYTRND9cvjNF0D2vsm",
+      "name": "Abdurahmon",
+      "id": 1
+    }
+  ],
+  "hero": [
+    {
+      "name": "banner",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5pRn1vN6XFtlHbBIpaqQUC9fIby3IfEgvw&s",
+      "id": 1
+    },
+    {
+      "name": "banner2",
+      "img": "https://xabar.uz/static/crop/1/2/920__95_1255439525.jpg",
+      "id": 2
+    },
+    {
+      "name": "banner3",
+      "img": "https://olcha.uz/image/original/category/odtXyERULXCcAjKtJEb0kH7XBV0InZmmqAwRqk24I1zqtITNExpsa7wto6uN.png",
+      "id": 3
+    }
+  ],
+  "statistika": [
+    {
+      "name": "Years of experience ",
+      "price": "15+",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IrCH1IWWRZx13Icv9zwTXEm4YsGJZERXjw&s",
+      "id": 1,
+      "categoryId": 1
+    },
+    {
+      "categoryId": "2",
+      "name": "Students",
+      "price": "300+",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IrCH1IWWRZx13Icv9zwTXEm4YsGJZERXjw&s",
+      "id": 2
+    },
+    {
+      "categoryId": "3",
+      "name": "Views",
+      "price": "1M+",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IrCH1IWWRZx13Icv9zwTXEm4YsGJZERXjw&s",
+      "id": 3
+    },
+    {
+      "categoryId": "4",
+      "name": "Students worldwide",
+      "price": "100K+",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IrCH1IWWRZx13Icv9zwTXEm4YsGJZERXjw&s",
+      "id": 4
+    },
+    {
+      "categoryId": "5",
+      "name": "Courses",
+      "price": "10+",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IrCH1IWWRZx13Icv9zwTXEm4YsGJZERXjw&s",
+      "id": 5
+    }
+  ]
+}
